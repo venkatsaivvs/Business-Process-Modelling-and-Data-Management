@@ -4,6 +4,6 @@ every step is manual and includes paper work starting from the application proce
 counselling which is very slow and consuming much effort and time
 
 The TO-BE process includes a central Database maintained by the system which usually contains the applicant’s data, 
-academic data and fee related data. It focusses on storing and processing (Insertion, updation) based on web pages. 
+academic data and fee related data. It focusses on storing and processing (Insert, update) based on web pages. 
 University can analyze and perform computations using this data. A faster responsive system performing CRUD operations 
 will help in making admission and scholarship decisions quickly.
