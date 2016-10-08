@@ -1,5 +1,5 @@
 --report 1
-set linesize 200
+set linesize 210
 
 /*This report tells the management that the number of seats currently filled in a track in a campus and the number of seats left.
 By default the number of seats are 200(University rule).This makes them aware that they can allot only the number of seats left*/
